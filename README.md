@@ -1,4 +1,3 @@
-# customer-purchase-prediction-ml
 # Customer Purchase Prediction Using Machine Learning
 
 ## Overview
